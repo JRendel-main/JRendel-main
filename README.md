@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m actively looking for Junior Developer<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning C# for .NET Framework
-
+I'm a Fullstack Developer at Bizbox Inc. We specialize at Hospital Information Systems, forms, scheduling systems and more.
+I mainly use React, and .NET framework for my work!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61557891783896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jrendelsanluis) 
